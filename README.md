@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Daniyal Tauseef</h1>
-<h3 align="center">2nd year university student @ University of Waterloo | LF Software Engineering, Cybersecurity Co-ops</h3>
+<h3 align="center">2nd year university student @ University of Waterloo | LF Data Science, Cybersecurity Co-ops</h3>
 
 - 🔭 I’m currently working on [AuthWatch](https://github.com/RipLiquid/AuthWatch)
 
