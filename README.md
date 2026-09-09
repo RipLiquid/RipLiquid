@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [MemeMorph](https://github.com/RipLiquid/MemeMorph)
 
-- 🌱 I’m currently learning **Cybersecurity, Splunk, C, and AWS**
+- 🌱 I’m currently learning **Azure, Splunk, C, and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RipLiquid?tab=repositories](https://github.com/RipLiquid?tab=repositories)
