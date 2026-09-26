@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Daniyal Tauseef</h1>
-<h3 align="center">2nd year university student @ UWaterloo | LF Data Science, Cybersecurity Co-ops</h3>
+<h3 align="center">2nd year university student @ UWaterloo</h3>
 
 - 🔭 I’m currently working on [MemeMorph](https://github.com/RipLiquid/MemeMorph)
 
