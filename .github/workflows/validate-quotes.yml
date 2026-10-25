@@ -1,0 +1,23 @@
+name: Validate quotes
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'quotes.json'
+      - '.github/workflows/validate-quotes.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - name: Validate quote data and updater behavior
+        run: python3 -m unittest discover -s tests -v

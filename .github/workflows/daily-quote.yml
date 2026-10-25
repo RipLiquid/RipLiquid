@@ -27,6 +27,8 @@ jobs:
       - uses: actions/checkout@v7
         with:
           ref: main
+      - name: Check quote data and profile edits
+        run: python3 -m unittest discover -s tests -v
       - name: Update quote
         run: python3 scripts/update_quote.py
       - name: Save updated quote
