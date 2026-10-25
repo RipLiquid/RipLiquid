@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋,/h1>
+<h1 align="center">Hey 👋, /h1>
 <h3 align="center">2nd year university student @ UWaterloo</h3>
 
 - 🔭 I’m currently working on [MemeMorph](https://github.com/RipLiquid/MemeMorph)
