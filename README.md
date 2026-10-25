@@ -1,8 +1,18 @@
-<h1 align="center">Hey 👋, /h1>
-<h3 align="center">2nd year university student @ UWaterloo</h3>
+### ripliquid
 
-- 🔭 I’m currently working on [MemeMorph](https://github.com/RipLiquid/MemeMorph)
+`$ cd /uwaterloo`
 
-- 🌱 I’m currently learning **Azure, and AWS**
+`$ status`  
+Mostly debugging. Occasionally building something that works.
 
-- 👨‍💻 All of my projects are available at [https://github.com/RipLiquid?tab=repositories](https://github.com/RipLiquid?tab=repositories)
+`$ ls interests/`  
+`games/  data/  maps/`
+
+---
+
+`$ quote --daily`
+
+<!-- DAILY-QUOTE:START -->
+> “Machines take me by surprise with great frequency.”  
+> — [Alan Turing](https://en.wikiquote.org/w/index.php?title=Alan_Turing&oldid=3351158#Computing_Machinery_and_Intelligence_%281950%29)
+<!-- DAILY-QUOTE:END -->
