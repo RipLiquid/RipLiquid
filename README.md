@@ -6,7 +6,7 @@
 Mostly debugging. Occasionally building something that works.
 
 `$ ls interests/`  
-`games/  data/  maps/`
+`games/  data/  cloud/`
 
 ---
 
