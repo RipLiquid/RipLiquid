@@ -4,6 +4,7 @@ import json
 import re
 from datetime import date, datetime
 from pathlib import Path
+from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,9 +17,28 @@ def markdown(text):
     return re.sub(r'([\\`*_{}\[\]<>])', r'\\\1', text)
 
 
+def validate_quotes(quotes):
+    if not isinstance(quotes, list) or len(quotes) < 2:
+        raise ValueError("Provide a list with at least two distinct quotes.")
+    seen = set()
+    for index, quote in enumerate(quotes, 1):
+        if not isinstance(quote, dict):
+            raise ValueError(f"Quote {index} must be an object.")
+        for field in ("text", "author", "source"):
+            value = quote.get(field)
+            if not isinstance(value, str) or not value.strip() or "\n" in value or "\r" in value:
+                raise ValueError(f"Quote {index}: {field} must be nonempty, single-line text.")
+        source = urlsplit(quote["source"])
+        if source.scheme != "https" or not source.hostname:
+            raise ValueError(f"Quote {index}: source must be an HTTPS URL.")
+        normalized = " ".join(quote["text"].casefold().split())
+        if normalized in seen:
+            raise ValueError(f"Quote {index} duplicates an earlier quote.")
+        seen.add(normalized)
+
+
 def render(readme, quotes, today):
-    if len(quotes) < 2 or len({q["text"] for q in quotes}) != len(quotes):
-        raise ValueError("Provide at least two distinct quotes.")
+    validate_quotes(quotes)
     if readme.count(START) != 1 or readme.count(END) != 1:
         raise ValueError("README must contain exactly one pair of quote markers.")
     before, remainder = readme.split(START)
