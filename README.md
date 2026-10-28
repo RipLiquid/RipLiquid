@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim.”  
-> — [Edsger W. Dijkstra](https://en.wikiquote.org/w/index.php?title=Edsger_W._Dijkstra&oldid=3779393)
+> “After these conversations with Tagore some of the ideas that had seemed so crazy suddenly made much more sense. That was a great help for me.”  
+> — [Werner Heisenberg](https://en.wikiquote.org/w/index.php?title=Werner_Heisenberg&oldid=3915343)
 <!-- DAILY-QUOTE:END -->
