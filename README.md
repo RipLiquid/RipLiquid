@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “After these conversations with Tagore some of the ideas that had seemed so crazy suddenly made much more sense. That was a great help for me.”  
-> — [Werner Heisenberg](https://en.wikiquote.org/w/index.php?title=Werner_Heisenberg&oldid=3915343)
+> “Anyone who is not shocked by quantum theory has not understood it.”  
+> — [Niels Bohr](https://en.wikiquote.org/w/index.php?title=Niels_Bohr&oldid=3976077)
 <!-- DAILY-QUOTE:END -->
