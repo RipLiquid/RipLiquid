@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “In science one tries to tell people, in such a way as to be understood by everyone, something that no one ever knew before. But in the case of poetry, it's the exact opposite!”  
-> — [Paul Dirac](https://en.wikiquote.org/w/index.php?title=Paul_Dirac&oldid=3647985)
+> “Now we have a problem. We can deduce, often, from one part of physics like the law of gravitation, a principle which turns out to be much more valid than the derivation. This doesn't happen in mathematics, that the theorems come out in places where they're not supposed to be!”  
+> — [Richard Feynman](https://en.wikiquote.org/w/index.php?title=Richard_Feynman&oldid=3976084#The_Character_of_Physical_Law_%281965%29)
 <!-- DAILY-QUOTE:END -->
