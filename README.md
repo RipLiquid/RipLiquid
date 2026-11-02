@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “I mean the word proof not in the sense of the lawyers, who set two half proofs equal to a whole one, but in the sense of a mathematician, where ½ proof = 0, and it is demanded for proof that every doubt becomes impossible.”  
-> — [Carl Friedrich Gauss](https://en.wikiquote.org/w/index.php?title=Carl_Friedrich_Gauss&oldid=3706823)
+> “Since others have explained my theory, I can no longer understand it myself.”  
+> — [Albert Einstein](https://en.wikiquote.org/w/index.php?title=Albert_Einstein&oldid=4042245#Einstein_and_the_Poet_%281983%29)
 <!-- DAILY-QUOTE:END -->
