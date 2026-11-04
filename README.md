@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “This book... too, is a society — of many small ideas. Each by itself is only common sense, yet when we join enough of them we explain the strangest mysteries of mind.”  
-> — [Marvin Minsky](https://en.wikiquote.org/w/index.php?title=Marvin_Minsky&oldid=3595240)
+> “Science is what we understand well enough to explain to a computer. Art is everything else we do.”  
+> — [Donald Knuth](https://en.wikiquote.org/w/index.php?title=Donald_Knuth&oldid=3784092)
 <!-- DAILY-QUOTE:END -->
