@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “There are other questions around AI (like what the economy of it will actually look like in the end), but "is it useful" is no longer one of those questions.”  
-> — [Linus Torvalds](https://en.wikiquote.org/w/index.php?title=Linus_Torvalds&oldid=4042428)
+> “I handed my passport to the immigration officer, and he looked at it and looked at me and said, "What are you?"”  
+> — [Grace Hopper](https://en.wikiquote.org/w/index.php?title=Grace_Hopper&oldid=3906974)
 <!-- DAILY-QUOTE:END -->
