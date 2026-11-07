@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “I handed my passport to the immigration officer, and he looked at it and looked at me and said, "What are you?"”  
-> — [Grace Hopper](https://en.wikiquote.org/w/index.php?title=Grace_Hopper&oldid=3906974)
+> “A programming language is low level when its programs require attention to the irrelevant.”  
+> — [Alan Perlis](https://en.wikiquote.org/w/index.php?title=Alan_Perlis&oldid=3757915)
 <!-- DAILY-QUOTE:END -->
