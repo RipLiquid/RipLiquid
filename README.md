@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “A programming language is low level when its programs require attention to the irrelevant.”  
-> — [Alan Perlis](https://en.wikiquote.org/w/index.php?title=Alan_Perlis&oldid=3757915)
+> “It does everything Unix does only less reliably.”  
+> — [Ken Thompson](https://en.wikiquote.org/w/index.php?title=Ken_Thompson&oldid=3731396)
 <!-- DAILY-QUOTE:END -->
