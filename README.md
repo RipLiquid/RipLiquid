@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “If you could see the earth illuminated when you were in a place as dark as night, it would look to you more splendid than the moon.”  
-> — [Galileo Galilei](https://en.wikiquote.org/w/index.php?title=Galileo_Galilei&oldid=3935299)
+> “To me it is not in the least demeaning that consciousness and intelligence are the result of “mere” matter sufficiently complexly arranged; on the contrary, it is an exalting tribute to the subtlety of matter and the laws of Nature.”  
+> — [Carl Sagan](https://en.wikiquote.org/w/index.php?title=Carl_Sagan&oldid=3901829#The_Dragons_of_Eden_%281977%29)
 <!-- DAILY-QUOTE:END -->
