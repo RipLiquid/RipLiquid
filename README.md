@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “To me it is not in the least demeaning that consciousness and intelligence are the result of “mere” matter sufficiently complexly arranged; on the contrary, it is an exalting tribute to the subtlety of matter and the laws of Nature.”  
-> — [Carl Sagan](https://en.wikiquote.org/w/index.php?title=Carl_Sagan&oldid=3901829#The_Dragons_of_Eden_%281977%29)
+> “If the earth should cease to attract its waters to itself all the waters of the sea would be raised and would flow to the body of the moon.”  
+> — [Johannes Kepler](https://en.wikiquote.org/w/index.php?title=Johannes_Kepler&oldid=4017757)
 <!-- DAILY-QUOTE:END -->
