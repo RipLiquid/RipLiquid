@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “In life, there's nothing to be feared, everything is to be understood.”  
-> — [Marie Curie](https://en.wikiquote.org/w/index.php?title=Marie_Curie&oldid=4015146#Quotes)
+> “To believe in science, one must believe in the rationality of the world.”  
+> — [Max Planck](https://en.wikiquote.org/w/index.php?title=Max_Planck&oldid=3994647)
 <!-- DAILY-QUOTE:END -->
