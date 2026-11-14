@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “To believe in science, one must believe in the rationality of the world.”  
-> — [Max Planck](https://en.wikiquote.org/w/index.php?title=Max_Planck&oldid=3994647)
+> “If I have seen further it is by standing on ye sholders of Giants.”  
+> — [Isaac Newton](https://en.wikiquote.org/w/index.php?title=Isaac_Newton&oldid=4034008#Quotes)
 <!-- DAILY-QUOTE:END -->
