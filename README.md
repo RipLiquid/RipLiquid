@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “If I have seen further it is by standing on ye sholders of Giants.”  
-> — [Isaac Newton](https://en.wikiquote.org/w/index.php?title=Isaac_Newton&oldid=4034008#Quotes)
+> “We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.”  
+> — [Charles Babbage](https://en.wikiquote.org/w/index.php?title=Charles_Babbage&oldid=3389086)
 <!-- DAILY-QUOTE:END -->
