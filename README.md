@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.”  
-> — [Charles Babbage](https://en.wikiquote.org/w/index.php?title=Charles_Babbage&oldid=3389086)
+> “A distinguished writer (Siméon Denis Poisson) has thus stated the fundamental definitions of the science:”  
+> — [George Boole](https://en.wikiquote.org/w/index.php?title=George_Boole&oldid=4029322)
 <!-- DAILY-QUOTE:END -->
