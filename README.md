@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “A distinguished writer (Siméon Denis Poisson) has thus stated the fundamental definitions of the science:”  
-> — [George Boole](https://en.wikiquote.org/w/index.php?title=George_Boole&oldid=4029322)
+> “I cannot pretend to throw the least light on such abstruse problems. The mystery of the beginning of all things is insoluble by us; and I for one must be content to remain an Agnostic.”  
+> — [Charles Darwin](https://en.wikiquote.org/w/index.php?title=Charles_Darwin&oldid=3990013)
 <!-- DAILY-QUOTE:END -->
