@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “I cannot pretend to throw the least light on such abstruse problems. The mystery of the beginning of all things is insoluble by us; and I for one must be content to remain an Agnostic.”  
-> — [Charles Darwin](https://en.wikiquote.org/w/index.php?title=Charles_Darwin&oldid=3990013)
+> “The idea of atomic energy is illusionary but it has taken so powerful a hold on the minds, that although I have preached against it for twenty-five years, there are still some who believe it to be realizable.”  
+> — [Nikola Tesla](https://en.wikiquote.org/w/index.php?title=Nikola_Tesla&oldid=3963242#Quotes)
 <!-- DAILY-QUOTE:END -->
