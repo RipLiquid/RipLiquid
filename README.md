@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “Vedanta teaches that consciousness is singular, all happenings are played out in one universal consciousness and there is no multiplicity of selves.”  
-> — [Erwin Schrödinger](https://en.wikiquote.org/w/index.php?title=Erwin_Schr%C3%B6dinger&oldid=4028270)
+> “One of the supreme achievements of purely intellectual human activity.”  
+> — [David Hilbert](https://en.wikiquote.org/w/index.php?title=David_Hilbert&oldid=3974793)
 <!-- DAILY-QUOTE:END -->
