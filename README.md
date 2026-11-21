@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “One of the supreme achievements of purely intellectual human activity.”  
-> — [David Hilbert](https://en.wikiquote.org/w/index.php?title=David_Hilbert&oldid=3974793)
+> “We are all different — but we share the same human spirit. Perhaps it's human nature that we adapt — and survive.”  
+> — [Stephen Hawking](https://en.wikiquote.org/w/index.php?title=Stephen_Hawking&oldid=3935287#Hawking_%282013%29)
 <!-- DAILY-QUOTE:END -->
