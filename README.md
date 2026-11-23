@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “But still try, for who knows what is possible...”  
-> — [Michael Faraday](https://en.wikiquote.org/w/index.php?title=Michael_Faraday&oldid=3685364#Quotes)
+> “The best way to predict the future is to invent it.”  
+> — [Alan Kay](https://www.computerhistory.org/revolution/story/315)
 <!-- DAILY-QUOTE:END -->
