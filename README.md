@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “Science seems to be at war with itself.... Naive realism leads to physics, and physics, if true, shows naive realism to be false. Therefore naive realism, if true, is false; therefore it is false.”  
-> — [Bertrand Russell](https://en.wikiquote.org/w/index.php?title=Bertrand_Russell&oldid=4039750)
+> “You don't have to be responsible for the world that you're in.”  
+> — [John von Neumann](https://en.wikiquote.org/w/index.php?title=John_von_Neumann&oldid=4012406)
 <!-- DAILY-QUOTE:END -->
