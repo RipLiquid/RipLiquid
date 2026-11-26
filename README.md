@@ -13,6 +13,6 @@ Mostly debugging. Occasionally building something that works.
 `$ quote --daily`
 
 <!-- DAILY-QUOTE:START -->
-> “You don't have to be responsible for the world that you're in.”  
-> — [John von Neumann](https://en.wikiquote.org/w/index.php?title=John_von_Neumann&oldid=4012406)
+> “How the learned fool would wonder Were he now to see his blunder, When he put his reason under The control of worldly Pride.”  
+> — [James Clerk Maxwell](https://en.wikiquote.org/w/index.php?title=James_Clerk_Maxwell&oldid=3952435)
 <!-- DAILY-QUOTE:END -->
